@@ -51,4 +51,8 @@ I prefer simple, explicit solutions over abstractions that hide complexity.
 
 ---
 
+## 🌐 Social
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://ivan-lourenco.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivan-louren%C3%A7o-7b1aba186/)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab)](https://gitlab.com/ivan.lourenco)
